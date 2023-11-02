@@ -1,2 +1,13 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Hello World!</title>
+
+    </head>
+    <body>
+        <h1>This is my first webpage on GitHub repository</h1>
+        <p>Andrew Renteria Rocks! and Exited to lear more </p>
+       
+    </body>
+
+</html>
